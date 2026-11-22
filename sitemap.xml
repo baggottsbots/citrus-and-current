@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://citrusandcurrent.com/</loc>
-    <lastmod>2026-11-22T05:06:56.688Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://citrusandcurrent.com/menu/</loc>
-    <lastmod>2026-11-22T05:04:55.679Z</lastmod>
+    <lastmod>2026-11-22T14:45:34.578Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://citrusandcurrent.com/contact/</loc>
-    <lastmod>2026-11-22T04:55:58.811Z</lastmod>
+    <lastmod>2026-11-22T14:45:26.198Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://citrusandcurrent.com/about/</loc>
-    <lastmod>2026-11-22T04:55:47.893Z</lastmod>
+    <lastmod>2026-11-22T14:45:25.851Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://citrusandcurrent.com/menu/</loc>
+    <lastmod>2026-11-22T14:45:25.451Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
