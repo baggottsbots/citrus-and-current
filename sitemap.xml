@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://citrusandcurrent.com/menu/</loc>
+    <lastmod>2026-11-22T14:46:13.082Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://citrusandcurrent.com/contact/</loc>
     <lastmod>2026-11-22T14:46:02.354Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -13,11 +18,6 @@
   <url>
     <loc>https://citrusandcurrent.com/</loc>
     <lastmod>2026-11-22T14:45:34.578Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://citrusandcurrent.com/menu/</loc>
-    <lastmod>2026-11-22T14:45:25.451Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
